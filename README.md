@@ -58,15 +58,19 @@ flowchart TD
 ### Example Output
 
 Original EXE:
+
 ![Original EXE structure](imgs/image-1.png)
 
 Converted DLL:
+
 ![Converted DLL structure](imgs/image-2.png)
 
 DLL Loading:
+
 ![DLL loading demonstration](imgs/image-3.png)
 
 Export Table:
+
 ![Export table view](imgs/image-4.png)
 
 ## License
